@@ -1,5 +1,5 @@
 [
-{"name" : "A", "requires" : ["B", "D", "E"]},
+{"name" : "A", "requires" : ["B", "C", "D", "E"]},
 {"name" : "B", "requires" : ["F"]},
 {"name" : "C", "requires" : ["G", "H"]},
 {"name" : "D", "requires" : ["G"]},
